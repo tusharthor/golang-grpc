@@ -1,7 +1,7 @@
 # golang-grpc
 golang grpc service with client and server
 
-Installations :-
+<b>Installations</b> :-
   1) go install google.golang.org/protobuf/cmd/protoc-gen-go@v1.28
   2) go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.2
 
